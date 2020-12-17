@@ -22,7 +22,7 @@ uint32_t prevTick;
 #define WIZCHIP_SPI_MISO_PIN  PA6
 
 
-#define SOCK_DHCP			0
+#define SOCK_DHCP		0
 #define MY_MAX_DHCP_RETRY	3
 
 
